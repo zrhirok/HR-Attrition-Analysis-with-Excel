@@ -1,4 +1,5 @@
 # HR-Attrition-Analysis-with-Excel
+![HR Attrition Analysis](https://github.com/user-attachments/assets/5aadc6c3-e241-48ae-9f6b-a3733f53bc76)
 
 Project Overview
 
